@@ -34,7 +34,7 @@ Endpoints:
 - `PUT /api/sensors/{sensorId}/monitoring/enable`: activate a specific temperature monitoring
 - `DELETE /api/sensors/{sensorId}/monitorig/enable`: deactivate a specific temperature monitoring
 
-# The technologies involved are:
+# The technologies used are:
 - Java 21 with Lombok
 - Spring Boot with Spring Web, Spring Data JPA and Spring AMQP
 - RabbitMQ
